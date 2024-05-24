@@ -14,10 +14,10 @@ body {
     background-position: bottom;
 }
 
-/* .main>img{
+.main>img{
     position: absolute;
     top: 50%;
-} */
+}
 
 /* .main>.btn-one{
     padding: 20px;
