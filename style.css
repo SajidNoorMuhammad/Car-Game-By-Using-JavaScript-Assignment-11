@@ -19,7 +19,7 @@ body {
     top: 50%;
 }
 
-/* .main>.btn-one{
+.main>.btn-one{
     padding: 20px;
     color: white;
     font-weight: bold;
@@ -30,7 +30,7 @@ body {
     position: absolute;
     right: 20px;
     top: 20px;
-} */
+}
 
 /* .main>.btn-two{
     padding: 20px 30px;
