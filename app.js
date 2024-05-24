@@ -10,9 +10,9 @@ function goCar() {
     },70)
 }
 
-// function stopCar(){
-//     clearInterval(interval);
-// }
+function stopCar(){
+    clearInterval(interval);
+}
 
 
 
